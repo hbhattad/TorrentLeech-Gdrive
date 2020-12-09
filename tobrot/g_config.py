@@ -2,7 +2,7 @@ from tobrot.sample_config import Config
 #Fill your all data, read readme for reference
 
 class Config(Config):
-	TG_BOT_TOKEN= "1352711653:AAHP76rNQindPqQ_ihCAuNSpb4ccV9gSIc4"
+	TG_BOT_TOKEN= "1487089853:AAESIXcXrlAceTn4phcGX-TR4ixUfra4XbE"
 	APP_ID = 1512546
 	API_HASH = "c87b9fb36da0ff6b8c9127d5e7dae2dd"
 	OWNER_ID = "634396994" #ID of bot owner
